@@ -27,5 +27,5 @@ A full-stack food delivery application built with Java for both frontend and bac
 - Java (Desktop GUI) -> Android Studio
  
 ## Δημιουργήθηκε από 
-Παναγιώτα Γεώργαρη (6ο εξάμηνο)
-
+- Παναγιώτα Γεώργαρη (6ο εξάμηνο)
+- Γεωργία Εμμανουέλα Μαρίνου (6ο εξάμηνο)
